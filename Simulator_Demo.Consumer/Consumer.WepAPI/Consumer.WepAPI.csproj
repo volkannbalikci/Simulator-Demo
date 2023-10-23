@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Producer.Business\Producer.Business.csproj" />
-    <ProjectReference Include="..\Shared\Shared.csproj" />
+    <ProjectReference Include="..\..\Simulator_Demo.Producer\Producer.Business\Producer.Business.csproj" />
+    <ProjectReference Include="..\..\Simulator_Demo.Shared\Shared\Shared.csproj" />
   </ItemGroup>
 
 </Project>
